@@ -1,0 +1,8 @@
+.grayBlock {
+    background:hsl(195deg, 20%, 86%);
+    height: 62%;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+  }
+  
